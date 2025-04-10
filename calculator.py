@@ -25,3 +25,6 @@ def logarithm(a, b):
 def exponent(a, b):
     math.pow(a,b)
 
+
+print("hi")
+
